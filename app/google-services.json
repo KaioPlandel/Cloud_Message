@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833105522110",
+    "project_id": "clound-message-b4b53",
+    "storage_bucket": "clound-message-b4b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833105522110:android:c2ebca50c5252fa8e4ddef",
+        "android_client_info": {
+          "package_name": "com.plandel.cloundmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833105522110-c2at1emt8fvpurq4sqlrrc3b8uocmref.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqDRRQdEJoGKrHgWEcfuqBEumY-kATcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833105522110-c2at1emt8fvpurq4sqlrrc3b8uocmref.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
